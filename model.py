@@ -12,6 +12,12 @@ class Network(torch.nn.Module):
 
     
     def forward(self, x):
+        '''Passing x as a dictionary with img and instruction as keys.
+            Since we have multiple images and instructions to pass, we need to pass them as a dictionary
+            through the dataloader.
+
+            Let me know if there is a better method
+        '''
         image = self.preprocess(x['img']).unsqueeze(0).to(self.device)
         text = clip.tokenize([x['instruction']]).to(self.device)
 
