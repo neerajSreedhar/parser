@@ -28,7 +28,7 @@ class Network(torch.nn.Module):
         concat = torch.cat((image_features, text_features), dim=1)
         return concat 
 
-def test_clip():
+def test_clip(device='cpu'):
     model, preprocess = clip.load('ViT-B/32', device=device)
     image = preprocess(Image.open("dog.jpeg")).unsqueeze(0).to(device)
     text = clip.tokenize(["a diagram", "a dog", "a cat"]).to(device)
@@ -45,8 +45,8 @@ def test_clip():
 
 if __name__ == '__main__':
     #print(device)
-    #test_clip()
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
+    #test_clip(device=device)
     img = Image.open('dog.jpeg')
     instruction = 'it is a dog'
     model = Network(device=device)
