@@ -222,6 +222,8 @@ class DMPDatasetEERandTarXYLang(Dataset):
         # exit()
         sentence = self.get_sentence(self.trials[trial_idx]['tar_obj'][step_idx], self.trials[trial_idx]['task'][step_idx])
         sentence = clip.tokenize([sentence])[0]
+        
+        detailed_sentence = clip.tokenize(detailed_sentence)
 
         # if self.normalize == 'separate':
         #     joint_angles = torch.tensor((self.trials[trial_idx]['joint_angles'][step_idx] - self.mean_joints) / (self.var_joints ** (1/2)), dtype=torch.float32)
