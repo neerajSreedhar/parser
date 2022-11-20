@@ -297,11 +297,11 @@ if __name__ == '__main__':
                                           shuffle=True, num_workers=1,
                                           collate_fn=pad_collate_xy_lang)
 
+    '''
     for img, sentence, detailed_sentence in dataloader:
         # print(target, joint_angles, ee_pos, ee_traj, length, target_pos)
         # print(length, len(ee_traj))
-        print(img.shape, phis.shape, mask.shape, sentence.shape, joint_angles_traj.shape, 
-            joints_angles.shape, ee_pos.shape, target_pos.shape, displacement.shape)
+        print(img.shape, detailed_sentence.shape, sentence.shape)
 
         target_xy = target_pos.detach().cpu().numpy() * 224 / 600
         target_xy[:, 1] = 224 - target_xy[:, 1] * 600 / 350
@@ -333,3 +333,4 @@ if __name__ == '__main__':
         # plt.show()
         plt.savefig('a.png')
         exit()
+'''
