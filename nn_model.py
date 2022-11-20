@@ -65,7 +65,8 @@ if __name__ == '__main__':
     img = Image.open('dog.jpeg')
     instruction = 'it is a dog'
     model = Network(device=device)
-    model.cuda()
+    if device == 'cuda':
+        model.cuda()
     hidden_ini = model.init_hidden()
     out, hidden = model((img, instruction), hidden_ini)
     print(out.shape)
