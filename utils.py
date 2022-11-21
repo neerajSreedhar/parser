@@ -292,7 +292,7 @@ def pad_collate_xy_lang(batch):
 
 if __name__ == '__main__':
     data_dirs = [
-        'D:\Anirudh\Studies\ASU\Human Robot interaction\Data'
+        'D:\Anirudh\Studies\ASU\Human Robot interaction\Data\collected_long_inst_detailed_sentence'
     ]
     dataset = DMPDatasetEERandTarXYLang(data_dirs, random=False, normalize='none')
     dataloader = torch.utils.data.DataLoader(dataset, batch_size=2,
