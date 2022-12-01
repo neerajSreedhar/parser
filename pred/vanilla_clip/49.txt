@@ -1,0 +1,150 @@
+<SOS> push clock forward <SEP> rotate clock clockwise <EOS>
+push clock forward <SEP> rotate clock clockwise <EOS>
+
+<SOS> push strawberry forward <SEP> push orange forward <EOS>
+push strawberry forward <SEP> push orange forward <EOS>
+
+<SOS> push camera forward <SEP> rotate camera clockwise <EOS>
+push camera forward <SEP> rotate camera clockwise <EOS>
+
+<SOS> drag camera to the left of center <SEP> drag orange to the center <SEP> drag watermelon to the right of center <EOS>
+drag camera to the left of center <SEP> drag watermelon to the center <SEP> drag watermelon to the right of center <EOS>
+
+<SOS> drag milk bottle to the left of center <SEP> drag orange to the center <SEP> drag strawberry to the right of center <EOS>
+drag milk bottle to the left of center <SEP> drag strawberry to the center <SEP> drag strawberry to the right of center <EOS>
+
+<SOS> push clock forward <SEP> push orange forward <EOS>
+push orange forward <SEP> push clock forward <EOS>
+
+<SOS> place camera on milk bottle <SEP> place orange on milk bottle <EOS>
+place orange on milk bottle <SEP> place camera on milk bottle <EOS>
+
+<SOS> push orange forward <SEP> push apple forward <EOS>
+push orange forward <SEP> push apple forward <EOS>
+
+<SOS> drag strawberry to the left of center <SEP> drag apple to the center <SEP> drag banana to the right of center <EOS>
+drag strawberry to the left of center <SEP> drag banana to the center <SEP> drag apple to the right of center <EOS>
+
+<SOS> push strawberry forward <SEP> push banana forward <EOS>
+push banana forward <SEP> push banana forward <EOS>
+
+<SOS> place milk bottle on tomato <SEP> place camera on tomato <EOS>
+place camera on tomato <SEP> place milk bottle on tomato <EOS>
+
+<SOS> push clock forward <SEP> push watermelon forward <EOS>
+push clock forward <SEP> push watermelon forward <EOS>
+
+<SOS> place strawberry on camera <SEP> place orange on camera <EOS>
+place strawberry on camera <SEP> place orange on camera <EOS>
+
+<SOS> place clock on banana <SEP> place apple on banana <EOS>
+place clock on apple <SEP> place banana on apple <EOS>
+
+<SOS> push tomato forward <SEP> rotate tomato clockwise <EOS>
+push tomato forward <SEP> rotate tomato clockwise <EOS>
+
+<SOS> place tomato on orange <SEP> place banana on orange <EOS>
+place tomato on banana <SEP> place orange on banana <EOS>
+
+<SOS> push milk bottle forward <SEP> rotate milk bottle clockwise <EOS>
+push milk bottle forward <SEP> rotate milk bottle clockwise <EOS>
+
+<SOS> push strawberry forward <SEP> rotate strawberry clockwise <EOS>
+push strawberry forward <SEP> rotate strawberry clockwise <EOS>
+
+<SOS> push banana forward <SEP> push apple forward <SEP> push orange forward <EOS>
+push orange forward <SEP> push apple forward <SEP> push tomato forward <SEP> push apple forward <EOS>
+
+<SOS> push milk bottle forward <SEP> push tomato forward <SEP> push banana forward <EOS>
+push orange forward <SEP> push push forward forward <SEP> push tomato forward <EOS>
+
+<SOS> drag camera to the left of center <SEP> drag clock to the center <SEP> drag watermelon to the right of center <EOS>
+drag camera to the left of center <SEP> drag watermelon to the center <SEP> drag watermelon to the right of center <EOS>
+
+<SOS> place banana on apple <SEP> place camera on apple <EOS>
+place banana on apple <SEP> place camera on apple <EOS>
+
+<SOS> push apple forward <SEP> push camera forward <EOS>
+push camera forward <SEP> push apple forward <EOS>
+
+<SOS> place tomato on banana <SEP> place orange on banana <EOS>
+place orange on banana <SEP> place tomato on banana <EOS>
+
+<SOS> place apple on camera <SEP> place strawberry on camera <EOS>
+place apple on camera <SEP> place strawberry on camera <EOS>
+
+<SOS> place camera on orange <SEP> place clock on orange <EOS>
+place camera on orange <SEP> place clock on orange <EOS>
+
+<SOS> drag clock to the left of center <SEP> drag tomato to the center <SEP> drag apple to the right of center <EOS>
+drag clock to the left of center <SEP> drag tomato to the center <SEP> drag apple to the right of center <EOS>
+
+<SOS> drag apple to the left of center <SEP> drag orange to the center <SEP> drag clock to the right of center <EOS>
+drag apple to the left of center <SEP> drag orange to the center <SEP> drag clock to the right of center <EOS>
+
+<SOS> push milk bottle forward <SEP> push camera forward <EOS>
+push camera forward <SEP> push milk bottle forward <EOS>
+
+<SOS> push apple forward <EOS>
+push apple forward <SEP> push apple forward <EOS>
+
+<SOS> push watermelon forward <SEP> push milk bottle forward <SEP> push tomato forward <EOS>
+push tomato forward <SEP> push milk bottle forward <SEP> push watermelon forward <EOS>
+
+<SOS> push apple forward <SEP> push tomato forward <SEP> push banana forward <EOS>
+push banana forward <SEP> push tomato forward <SEP> push apple forward <SEP> push tomato forward <EOS>
+
+<SOS> place strawberry on tomato <SEP> place camera on tomato <EOS>
+place strawberry on tomato <SEP> place camera on tomato <EOS>
+
+<SOS> push orange forward <SEP> rotate orange clockwise <EOS>
+push orange forward <SEP> rotate orange clockwise <EOS>
+
+<SOS> drag milk bottle to the left of center <SEP> drag tomato to the center <SEP> drag orange to the right of center <EOS>
+drag milk bottle to the left of center <SEP> drag tomato to the center <SEP> drag orange to the right of center <EOS>
+
+<SOS> push clock forward <SEP> push watermelon forward <EOS>
+push clock forward <SEP> push watermelon forward <EOS>
+
+<SOS> drag watermelon to the left of center <SEP> drag milk bottle to the center <SEP> drag camera to the right of center <EOS>
+drag watermelon to the left of center <SEP> drag camera to the center <SEP> drag milk bottle to the right of center <EOS>
+
+<SOS> place milk bottle on clock <SEP> place orange on clock <EOS>
+place milk bottle on orange <SEP> milk bottle on orange <EOS>
+
+<SOS> place apple on watermelon <SEP> place tomato on watermelon <EOS>
+place tomato on watermelon <SEP> place apple on watermelon <EOS>
+
+<SOS> place banana on milk bottle <SEP> place apple on milk bottle <EOS>
+place banana on milk bottle <SEP> place apple on milk bottle <EOS>
+
+<SOS> drag strawberry to the left of center <SEP> drag camera to the center <SEP> drag orange to the right of center <EOS>
+drag strawberry to the left of center <SEP> drag camera to the center <SEP> drag orange to the right of center <EOS>
+
+<SOS> drag apple to the left of center <SEP> drag camera to the center <SEP> drag clock to the right of center <EOS>
+drag apple to the left of center <SEP> drag camera to the center <SEP> drag clock to the right of center <EOS>
+
+<SOS> drag clock to the left of center <SEP> drag orange to the center <SEP> drag camera to the right of center <EOS>
+drag clock to the left of center <SEP> drag orange to the center <SEP> drag camera to the right of center <EOS>
+
+<SOS> push strawberry forward <SEP> push orange forward <EOS>
+push strawberry forward <SEP> push orange forward <EOS>
+
+<SOS> push banana forward <SEP> push strawberry forward <EOS>
+push banana forward <SEP> push strawberry forward <EOS>
+
+<SOS> push strawberry forward <SEP> push apple forward <EOS>
+push apple forward <SEP> push tomato forward forward <SEP> push strawberry forward <EOS>
+
+<SOS> drag tomato to the left of center <SEP> drag watermelon to the center <SEP> drag apple to the right of center <EOS>
+drag tomato to the left of center <SEP> drag watermelon to the center <SEP> drag apple to the right of center <EOS>
+
+<SOS> drag apple to the left of center <SEP> drag tomato to the center <SEP> drag strawberry to the right of center <EOS>
+drag apple to the left of center <SEP> drag tomato to the center <SEP> drag strawberry to the right of center <EOS>
+
+<SOS> push strawberry forward <SEP> push camera forward <EOS>
+push strawberry forward <SEP> push camera forward <EOS>
+
+<SOS> drag strawberry to the left of center <SEP> drag orange to the center <SEP> drag watermelon to the right of center <EOS>
+drag strawberry to the left of center <SEP> drag watermelon to the center <SEP> drag watermelon to the right of center <EOS>
+
